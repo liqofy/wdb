@@ -1,0 +1,68 @@
+body {
+    background-color: lightblue;
+  }
+  
+  h1 {
+   
+    margin-left: 20px;
+  }
+
+  .city
+  {
+background-color: aliceblue;
+color:brown;
+border: 2px solid black;
+  }
+
+  .solid {
+    border: 2px solid skyblue; }
+
+  .dashed {border-style: dashed;}
+
+
+  .mar {
+    border: 1px solid red;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+    background-color: lightblue;
+  }
+
+.flt_exa {
+background-color: red;
+border: 2px solid black;
+height: 200px;
+width: 50%;
+float:right;
+  }
+
+  .main {
+    background-color: #FFAFA4;
+  }
+  
+  #demo {
+    background-color: #DEDAF7;
+  }
+
+  .div1{
+    background-color: lightgrey;
+    width: 300px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+    outline-color:red;
+    outline-style: solid;
+    outline-width: 4px;
+  outline-offset: 15px;
+    }
+
+    .div2 {
+      border: 2px solid;
+    padding: 20px; 
+    width: 300px;
+      resize: both;
+      overflow: auto;
+  }
+  
+
